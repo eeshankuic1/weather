@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- The generated QR PNG is written here before it is shared/printed. -->
+    <cache-path name="qr_codes" path="qr/" />
+</paths>

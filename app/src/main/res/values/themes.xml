@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose draws the UI; this base theme just removes the action bar
+         and sets the system bar colors. -->
+    <style name="Theme.QRAppLock" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/teal</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR AppLock</string>
+    <string name="accessibility_label">QR AppLock guard</string>
+    <string name="accessibility_description">Lets QR AppLock detect when a protected app opens so it can show the lock screen. No data ever leaves your device.</string>
+</resources>
